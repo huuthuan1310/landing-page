@@ -1,5 +1,5 @@
 import "./App.css";
-import bg from "./assets/bg.PNG";
+import bg from "./assets/bg.jpg";
 function App() {
   return (
     <a
